@@ -24,8 +24,3 @@ Internally both the scripts run the following commands
  # How to execute the unit tests
 
  `mvn clean test` will execute the unit test cases.
-
-# Help
-
-You can refer our help documents [here](https://help.geektrust.com)
-You can read build instructions [here](https://github.com/geektrust/coding-problem-artefacts/tree/master/Java)
